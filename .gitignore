@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Ignore Data files and model files
+data/
+models/
+runs/
+
+# OS files
+.DS_Store
